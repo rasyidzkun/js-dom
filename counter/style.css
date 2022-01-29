@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	height: 100vh;
+	overflow: hidden;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+#value {
+	font-size: 6rem;
+}
+
+.btn {
+	background: transparent;
+	padding: 10px 30px;
+	margin:20px 30px;
+	cursor: pointer;
+}

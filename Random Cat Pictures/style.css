@@ -1,0 +1,41 @@
+body {
+  background-color: #90e0ef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+
+.catto {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  height: 500px;
+  width: 550px;
+}
+
+.catto img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.catto-btn {
+  background-color: #00b4d8;
+  border: 0;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  transition: 0.3s;
+}
+
+.catto-btn:hover {
+  background: #0096c7;
+}

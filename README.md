@@ -1,6 +1,6 @@
 # JavaScript Program Collection
 
-This page contains javascript programs that are not hosted <br>
+This page contains javascript programs that are upload on codepen <br>
 If you want to see hosted programs. Please visit the link below
 
 |  #  | Project                                                                | Live Demo                                                |

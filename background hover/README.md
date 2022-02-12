@@ -2,5 +2,5 @@
 
 ![bgHover](bgHover.gif)
 
-[Demo](https://codepen.io/rasyidzkun/pen/yLPXEzR)
+[Demo](https://codepen.io/rasyidzkun/pen/yLPXEzR) <br>
 responsive : no

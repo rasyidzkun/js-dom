@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg {
+    background: url("hero.jpg") no-repeat center center;
+    background-size: cover;
+    height: calc(100vh + 60px);
+    width: calc(100vw + 60px);
+    z-index: -1;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    filter: blur(0px);
+}
+
+.loading-text {
+    color: #fff;
+    font-size: 50px;
+}

@@ -9,3 +9,6 @@ If you want to see hosted programs. Please visit the link below
 | 02  | [Pokedex](https://github.com/rasyidzkun/pokedex)                       | [Demo](https://rasyidzkun.github.io/pokedex/)            |
 | 03  | [Wikipedia Search App](https://github.com/rasyidzkun/wikipedia)        | [Demo](https://rasyidzkun.github.io/wikipedia/)          |
 | 04  | [Daily Cat Facts](https://github.com/rasyidzkun/cat-facts)             | [Demo](https://rasyidzkun.github.io/cat-facts/)          |
+| 05  | [Catto](https://github.com/rasyidzkun/catto)             | [Demo](https://rasyidzkun.github.io/catto/)          |
+| 06  | [Random Choice Picker](https://github.com/rasyidzkun/random-choice-picker)             | [Demo](https://rasyidzkun.github.io/random-choice-picker/)          |
+| 07  | [Doge](https://github.com/rasyidzkun/doge)             | [Demo](https://rasyidzkun.github.io/doge/)          |

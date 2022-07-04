@@ -2,7 +2,7 @@ function createHeart() {
     const heart = document.createElement("div")
     heart.classList.add("heart")
 
-    heart.textContent = "🤍"
+    heart.textContent = "💜"
 
     heart.style.left = Math.random() * 100 + 1 + "vw"
     heart.style.animationDuration = Math.random() * 2 + 5 + "s"
